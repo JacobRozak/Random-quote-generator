@@ -1,4 +1,11 @@
-var generate = document.getElementById('quote')
+//window.onload = function(){
+
+function myFunction(){
+
+var generate = document.getElementsByClassName('newQuote')
+//generate.addEventListener("click", function(){
+
+var quote = document.getElementById('quote')
 
 var quotes = [{
         id:1,
@@ -14,10 +21,28 @@ var quotes = [{
         person: "Oscar Wilde"
         }]
 
+var colors = [
+    "#00d8cd",
+    "#f73cee",
+    "#68de6f",
+    "#5d43ee",
+    "#026b00",
+    "#fa00b4",
+    "#feb783",
+    "#6300a3",
+    "#ae1100",
+    "#0167bf",
+    "#592600",
+    "#cda2ff",
+    "#2d1d4a",
+    "#ff51b1",
+    "#fcb0d4"
+]
 
-
-
-
+    function changeColor(){
+    var randIx = Math.floor(Math.random() * colors.length);
+    document.getElementsByTagName("body")[0].style.backgroundColor = colors[randIx];
+}
 
 var random = Math.floor(Math.random()*(quotes.length))
 
@@ -36,8 +61,9 @@ chosenQuote.textContent = randomPerson
 chosenQuote.className = 'person'
 
 
-generate.appendChild(chosenPerson)
-generate.appendChild(chosenQuote)
+quote.appendChild(chosenPerson)
+quote.appendChild(chosenQuote)
 
+changeColor()
 
-
+}
