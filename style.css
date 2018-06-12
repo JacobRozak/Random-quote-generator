@@ -13,7 +13,7 @@ body {
   }
   
   #quote-box {
-    background-image: url('http://source.unsplash.com/random/539x254');
+    background-image:white; /*url('http://source.unsplash.com/random/539x254');*/
     border-radius: 5px;
     margin: auto;
     padding: 40px 45px;

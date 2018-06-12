@@ -22,7 +22,8 @@ var quotes = [{
          quote : "“Always forgive your enemies; nothing annoys them so much.”", 
          author: "Oscar Wilde"
          
-        },
+		},
+		//enterprenership
         {
 			quote: "If you make the Internet, live on the internet.",  
 			author: "Matthew Mullenweg, WordPress"
@@ -146,6 +147,132 @@ var quotes = [{
 			quote: "Ideas are commodity. Execution of them is not.",
 			author: "Michael Dell, Dell Computers"
 		},
+		//books
+		{
+			quote: "There are five billion people living on this planet. But you fall in love with one particular person, and you won't swap her for any other.",
+			author: "Jostein Gaarder, The Solitaire Mystery"
+		},
+
+		{
+			quote: "People generally see what they look for and hear what they listen for.",
+			author: "Harper Lee, To Kill a Mockingbird" 
+		},
+
+		{
+			quote: "You don't get to choose if you get hurt in this world...but you do have some say in who hurts you.",
+			author: "John Green, The Fault In Our Stars"
+		},
+
+		{
+			quote: "The world is not a wish-granting factory",
+			author: "John Green, The Fault In Our Stars"
+		},
+
+		{
+			quote: "Destroying things is much easier than making them.",
+			author: "Suzanne Collins, The Hunger Games"
+		},
+
+		{
+			quote: "To be successful you need friends and to be very successful you need enemies.",
+			author: "Sidney Sheldon, The Other Side of Midnight"
+		},
+
+		{
+			quote: "Life is like a novel. It's filled with suspense. You have no idea what is going to happen until you turn the page.",
+			author: "Sidney Sheldon"
+		},
+
+		{
+			quote: "It's much better to do good in a way that no one knows anything about it.",
+			author: "Leo Tolstoy, Anna Karenina"
+		},
+
+		{
+			quote: "There comes a time when you have to choose between turning the page and closing the book.",
+			author: "Josh Jameson"
+		},
+
+		{
+			quote: "I think of life as a good book. The further you get into it, the more it begins to make sense.",
+			author: "Harold Kushner"
+		},
+
+		{
+			quote: "If you only read the books that everyone else is reading, you can only think what everyone else is thinking.",
+			author: "Haruki Murakami"
+		},
+
+		{
+			quote: "There are many little ways to enlarge your child’s world. Love of books is the best of all.",
+			author: "Jacqueline Kennedy Onassis"
+		},
+
+		{
+			quote: "Great books help you understand, and they help you feel understood.",
+			author: "John Green"
+		},
+
+		{
+			quote: "A book is a version of the world. If you do not like it, ignore it or offer your own version in return.",
+			author: "Salman Rushdie"
+		},
+
+		{
+			quote: "Keep reading books, but remember that a book is only a book, and you should learn to think for yourself.",
+			author: "Maxim Gorky"
+		},
+
+		{
+			quote: "There are perhaps no days of our childhood we lived so fully as those we spent with a favorite book.",
+			author: "Marcel Proust"
+		},
+
+		{
+			quote: "A book is the only place in which you can examine a fragile thought without breaking it.",
+			author: "Edward P. Morgan"
+		},
+
+		{
+			quote: "If one cannot enjoy reading a book over and over again, there is no use in reading it at all.",
+			author: "Oscar Wilde"
+		},
+
+		{
+			quote: "Read the best books first, or you may not have a chance to read them at all.",
+			author: "Henry David Thoreau"
+		},
+
+		{
+			quote: "Make it a rule never to give a child a book you would not read yourself.",
+			author: "George Bernard Shaw"
+		},
+
+		{
+			quote: "I can’t imagine a man really enjoying a book and reading it only once.",
+			author: "C.S. Lewis"
+		},
+
+		{
+			quote: "One always has a better book in one’s mind than one can manage to get onto paper.",
+			author: "Michael Cunningham"
+		},
+
+		{
+			quote: "There are worse crimes than burning books. One of them is not reading them.",
+			author: "Joseph Brodsky"
+		},
+
+		{
+			quote: "You know you’ve read a good book when you turn the last page and feel a little as if you have lost a friend.",
+			author: "Paul Sweeney"
+		},
+
+		{
+			quote: "A good book has no ending.",
+			author: "R.D. Cumming"
+		},
+
 
     ]
 
